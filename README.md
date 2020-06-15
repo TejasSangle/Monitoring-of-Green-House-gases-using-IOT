@@ -1,2 +1,5 @@
 # Monitoring-of-Green-House-gases-using-IOT
 Done using cisco packet tracer to show sending and recieving of data and communication between devices
+In this paper, the Design had been aimed data acquisition in greenhouse for multiple sensors to use data for simulation or processing to achieve the better enhancement of growth in greenhouse, this data has effect on the climate of greenhouse. Graphical User Interfaces (GUI) has been used to access the HTTP server using registration server.
+Some of the market still uses human effort to track the objects but are behind those who have implemented the IOT technology for that. We have created a network simulation for a location from where the sensor data is been read by using sensors and these are is being processed on the cloud and is further sent to the end applications and server.
+We have used IOT simulation tool i.e. cisco packet tracer for simulation. It uses to show the forwarding process of packets virtually so that this can be implemented further for the real time applications.
